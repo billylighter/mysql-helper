@@ -4,8 +4,8 @@
 
 ### 🔑 Authorization:
 
-*   #### Login
-    > *mysql -u login -p;*
+#### Login
+> *mysql -u login -p;*
 
 ---
 
